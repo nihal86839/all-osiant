@@ -2,14 +2,14 @@
 in build 8 +tools
 ## Installation Commands
 
-`$ pkg up -y`
+`$ pkg upgrade -y`
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/professor`
+`$ git clone https://github.com/nihal86839/all-osiant.git`
 
-`$ cd professor`
+`$ cd all-osiant`
 
-`$ chmod +x professor.sh`
+`$ chmod +x *`
 
-`$ bash professor.sh`
+`$ bash allosint.sh`
